@@ -1,0 +1,125 @@
+*{padding: 0px;
+margin: 0px;}
+
+.zomato-bg{
+    background-color: black;
+}
+.Login-title{
+    margin-left: 2rem;
+}
+
+.zomato-main-card{
+    margin-top: 3rem;
+    width:448px;
+    height: 467px;
+}
+
+.sub-card{
+    width: 400px;
+    height: 40px;
+    border: 1px solid black;
+  margin-left: 1.3rem;
+  background-color: aliceblue;
+  border-radius: 3px;
+ 
+}
+
+#select-option{
+    background-color: aliceblue;
+    border: 0px;
+   
+}
+#select-option,option{
+    
+}
+
+img{
+    width: 2rem;
+}
+
+span{
+    width: 400px;
+    height: 45px;
+    background-color: black;
+    
+}
+.card1{
+    width: 439px;
+    height:480px;
+    background-color: rgb(248, 251, 253);
+margin-left: 26rem;
+border-radius: 7px;
+}
+.card3{
+    background-color: rgb(255, 255, 255);
+    border: 7px solid rgb(27, 23, 23);
+    width: 19rem;
+    display: flex;
+   
+   
+}
+.card3,input{
+    border: 0px;
+    color: black;
+}
+
+.select-option{
+   background-color: rgb(249, 246, 246);
+  width: 400px;
+  border: 3px solid rgb(26, 179, 49);
+  border-radius: 3px;
+}
+.zomato-otp-button{
+    margin-left: 1.3rem;
+    margin-top: 3rem;
+    width:400px;
+    height: 45px;
+  background-color: rgb(247, 100, 100);
+    border-radius: 4px;
+   
+}
+.zomato-otp-button:hover{
+      background-color: rgb(229, 61, 61);
+}
+
+.next-step{
+    display: flex;
+}
+.next-step,hr{
+    width: 25rem;
+    margin-left: 1.4rem;
+}
+.zomato-next{
+    padding-left: 13rem;
+}
+
+.zomato-email{
+    margin-left: 1.3rem;
+    margin-top: 3rem;
+    width:400px;
+    height: 45px;
+    border-radius: 7px;
+    border: 1px solid rgb(87, 84, 84);
+    background-color: aliceblue;
+}
+.zomato-email,svg{
+margin-right: 8px;
+}
+svg{
+    color: red;
+}
+
+.zomato-new-acount,hr{
+    margin-left: 0.8rem;
+    width: 25rem;
+    color:rgb(127, 122, 122);  
+    margin-top: 2rem;
+}
+.zomato-new-acount1{
+    display: flex;
+    padding-left: 1.3rem;
+}
+.zomato-new-acount2{
+     text-decoration: none;
+     color: rgb(241, 89, 89);
+}
